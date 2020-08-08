@@ -1,0 +1,9 @@
+criei a pasta server, dei cd server 
+depois : yarn init -yarn
+abri o vscode na pasta server e o terminal do vscode
+yarn add typescript -D 
+yarn tsc --, adicionei o tsconfig json
+mudei o target do tsconfig pra : es2017
+yarn add ts-node-dev -D ,  pra fazer o node entender typescipt e tb pra nao precisar dicar reiniciando le td hora
+adicionei o scripts la no package.json
+yarn add espress -D
